@@ -1,7 +1,7 @@
 package com.example.gripmoney.Login
 
-import android.content.Context
 import android.content.Intent
+import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -19,6 +19,8 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.auth.GoogleAuthProvider
 import com.google.firebase.firestore.FirebaseFirestore
+
+//theb dhggdwgdwgdwgcyh ndbghewcgewcgewgbhewyghyu
 
 class LoginChoice : AppCompatActivity() {
     private lateinit var auth: FirebaseAuth
